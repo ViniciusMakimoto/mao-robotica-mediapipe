@@ -2,10 +2,11 @@ Projeto Controlando braço robótico com as mãos
 
 Neste projeto vamos utilizar visão computacional e arduino
 
-Toda a programação é feita em Python,
-no o arduino vamos apenas instalar a biblioteca Pyfirmata Standard para comunicar com a programação Python.
+A programação é feita com Python e C++ Arduino,
+A Comuninação é por Serial.
 
-O passo a passo para instalação é mostrado no vídeo do Youtube.
+O projeto foi feito como base o video:
+https://youtu.be/ebRO4B7bNBE?si=33WUcWACTchQRnbx
 
 * Para esse projeto recomendo usar Python na versão 3.9
 
